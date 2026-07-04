@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi👋, I'm Hamsa P
+Aspiring Full Stack Developer
 <!--
 **thehpprojects/thehpprojects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
