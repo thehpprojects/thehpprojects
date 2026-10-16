@@ -13,60 +13,32 @@ I'm an Information Science and Engineering student passionate about building **s
 - 🎨 Outside coding, I enjoy drawing, painting, and creative activities
 
 ---
+💻 Technical Skills
 
-## 🧰 Tech Stack
+Frontend: HTML5, CSS3, JavaScript, React.js
+Backend: Node.js, Express.js, REST APIs
+Databases: MongoDB, MySQL
+Programming Languages: Java, JavaScript, Python
+Tools & Platforms: Git, GitHub, VS Code, Postman
 
-### Frontend
-HTML5 • CSS3 • JavaScript • React.js
+🌱 Currently Learning
 
-### Backend
-Node.js • Express.js • REST APIs
+Java Full Stack Development
+Data Structures & Algorithms (DSA)
+Advanced Full Stack Development
+Blockchain and Generative AI technologies
 
-### Databases
-MongoDB • MySQL
+🎯 Career Goals
 
-### Programming Languages
-Java • JavaScript • Python
+I'm working towards becoming a skilled Software Developer, strengthening my problem-solving abilities, building impactful projects, and preparing for opportunities in product-based companies.
 
-### Tools & Platforms
-Git • GitHub • VS Code • Postman
+⚡ A Little About Me
 
-### Exploring
-Java Full Stack Development • Blockchain • Generative AI
+🎨 I enjoy drawing, painting, and creative activities.
+📚 I believe in continuous learning and improving through hands-on projects.
+💡 I'm always curious to explore new technologies and build something useful.
 
----
-
-## 🚀 Featured Projects
-
-### 💻 Real-Time Collaborative Code Editor
-- Built as a team project using React.js, Node.js, Express.js, and MongoDB.
-- Designed for collaborative coding and code sharing.
-- Planned features include shared coding rooms, syntax highlighting, and integrated chat.
-
-### 🗳️ Blockchain-Based Secure Voting System
-- A team project focused on transparent and tamper-resistant digital voting.
-- Uses Solidity smart contracts and Polygon blockchain technology.
-- Includes OTP-based authentication, IPFS integration, and vote transaction verification.
-
-### 💰 Full Stack Expense Tracker
-- A web application concept for managing personal expenses.
-- Focuses on expense tracking, CRUD operations, authentication, and analytics.
-
-
----
-
-## 📈 My Current Focus
-
-- Strengthening Data Structures & Algorithms
-- Practicing coding problems and problem-solving
-- Building full-stack applications
-- Learning software development best practices
-- Preparing for Software Development Engineer opportunities
-
----
-
-
-✨ Always learning, building, and improving — one project at a time!
+✨ Keep Learning | Keep Building | Keep Growing 🚀
 
 <!--
 **thehpprojects/thehpprojects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
