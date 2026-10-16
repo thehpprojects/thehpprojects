@@ -1,5 +1,3 @@
-## Hi👋, I'm Hamsa P
-Aspiring Full Stack Developer
 # Hi 👋, I'm Hamsa P!
 
 ### 🚀 Aspiring Full Stack Developer | ISE Student | Building Projects That Solve Real Problems
