@@ -24,8 +24,11 @@ Tools & Platforms: Git, GitHub, VS Code, Postman
 🌱 Currently Learning
 
 Java Full Stack Development
+
 Data Structures & Algorithms (DSA)
+
 Advanced Full Stack Development
+
 Blockchain and Generative AI technologies
 
 🎯 Career Goals
@@ -35,7 +38,9 @@ I'm working towards becoming a skilled Software Developer, strengthening my prob
 ⚡ A Little About Me
 
 🎨 I enjoy drawing, painting, and creative activities.
+
 📚 I believe in continuous learning and improving through hands-on projects.
+
 💡 I'm always curious to explore new technologies and build something useful.
 
 ✨ Keep Learning | Keep Building | Keep Growing 🚀
