@@ -6,56 +6,54 @@ I'm an Information Science and Engineering student passionate about building **s
 
 - 🎓 Pursuing B.E. in Information Science and Engineering
 - 💻 Interested in Full Stack Development and Software Engineering
-- 🌱 Currently strengthening my skills in **Java, Data Structures & Algorithms, and Full Stack Development**
+- 🌱 Strengthening my skills in **Java, Data Structures & Algorithms, and Full Stack Development**
 - 🛠️ Working with the **MERN stack** and exploring Java Full Stack technologies
 - 🔗 Exploring Blockchain and Generative AI applications
-- 🎯 Goal: To become a skilled Software Developer and contribute to innovative products
-- 🎨 Outside coding, I enjoy drawing, painting, and creative activities
+- 🎯 Aspiring to become a skilled Software Developer and contribute to innovative products
+- 🎨 Enjoy drawing, painting, and creative activities
 
 ---
-💻 Technical Skills
 
-Frontend: HTML5, CSS3, JavaScript, React.js
-Backend: Node.js, Express.js, REST APIs
-Databases: MongoDB, MySQL
-Programming Languages: Java, JavaScript, Python
-Tools & Platforms: Git, GitHub, VS Code, Postman
+### 💻 Technical Skills
 
-🌱 Currently Learning
+- **Frontend:** HTML5, CSS3, JavaScript, React.js
+- **Backend:** Node.js, Express.js, REST APIs
+- **Databases:** MongoDB, MySQL
+- **Programming Languages:** Java, JavaScript, Python
+- **Tools & Platforms:** Git, GitHub, VS Code, Postman
 
-Java Full Stack Development
+---
 
-Data Structures & Algorithms (DSA)
+### 🚀 Featured Projects
 
-Advanced Full Stack Development
+- 💻 **Real-Time Collaborative Code Editor** — Collaborative coding, shared rooms, and real-time communication.
+- 🗳️ **Blockchain-Based Secure Voting System** — Secure digital voting using Solidity, Polygon, OTP authentication, and IPFS.
+- 💰 **Full Stack Expense Tracker** — Expense management, CRUD operations, authentication, and analytics.
+- 🌐 **Personal Portfolio** — Showcasing my skills, projects, and development journey.
 
-Blockchain and Generative AI technologies
+---
 
-🎯 Career Goals
+### 🌱 Currently Learning
 
-I'm working towards becoming a skilled Software Developer, strengthening my problem-solving abilities, building impactful projects, and preparing for opportunities in product-based companies.
+- Java Full Stack Development
+- Data Structures & Algorithms (DSA)
+- Advanced Full Stack Development
+- Blockchain and Generative AI technologies
 
-⚡ A Little About Me
+---
 
-🎨 I enjoy drawing, painting, and creative activities.
+### 🎯 Career Goals
 
-📚 I believe in continuous learning and improving through hands-on projects.
+I'm working towards becoming a skilled **Software Developer**, strengthening my problem-solving abilities, building impactful projects, and preparing for opportunities in product-based companies.
 
-💡 I'm always curious to explore new technologies and build something useful.
+---
 
-✨ Keep Learning | Keep Building | Keep Growing 🚀
+### ⚡ A Little About Me
 
-<!--
-**thehpprojects/thehpprojects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎨 I enjoy drawing, painting, and creative activities.
+- 📚 I believe in continuous learning and improving through hands-on projects.
+- 💡 I'm always curious to explore new technologies and build something useful.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ **Keep Learning | Keep Building | Keep Growing** 🚀
